@@ -6,6 +6,10 @@ This project is a microfrontend application called Films App, with the host proj
 
 ## Local Setup
 
+## Microfronts
+- [Microfront Item](https://github.com/JooseNavarro/mf-films-item)
+- [Microfront List](https://github.com/JooseNavarro/mf-films-list)
+
 To run the project locally, you will need to have the host and both microfrontends running. Follow the steps below:
 
 1. Navigate to the `films-app` directory:
@@ -47,11 +51,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 Jose navarro
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
-## Screenshots
 
 
 
